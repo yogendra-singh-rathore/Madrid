@@ -17,9 +17,14 @@ Before moving on, let’s have a quick look at all the sub-bits that build the B
 
 
 ## Madrid
-
+Madrid Data ---> Python Program, Code,  Juputer Notebook
 
 ## Snake Game
-
-
+Before moving on, let's have a quick  look at all the sub-bits that built the  Snake Game:
+| Function Programming | OOPs | Package Name|
+| ------------ | ------------ | ------------ | 
+| YourScore|Class: Square| PyGame |
+| Our Snake| |Time |
+| Message| |Random |
+| Game Loop |||
 ## Voice Assistance
