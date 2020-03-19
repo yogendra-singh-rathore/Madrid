@@ -24,7 +24,9 @@ Before moving on, let's have a quick  look at all the sub-bits that built the  S
 | Function Programming | OOPs | Package Name|
 | ------------ | ------------ | ------------ | 
 | YourScore|Class: Square| PyGame |
-| Our Snake| |Time |
-| Message| |Random |
-| Game Loop |||
+| Our Snake|Class: Grid |Time |
+| Message| Class: Snake|Random |
+| Game Loop |Function: Movement||
+
+
 ## Voice Assistance
